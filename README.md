@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Niraj+Kumar;Full+Stack+Developer+💻;Chemical+Engineering+Student+🧪;Always+Learning+New+Things+🚀&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Niraj+Kumar;Full+Stack+Developer+💻;Building+Digital+Solutions+🚀&center=true&size=30">
   </a>
 </h1>
 
@@ -19,7 +19,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-niraj-kumar.onrender.com)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niraj.kumar.iit.roorkee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-kumar-iit)
-[![Resume](https://img.shields.io/badge/📄_Resume-0052CC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/your-resume-link)
+[![Resume](https://img.shields.io/badge/📄_Resume-0052CC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
 
 </div>
 
@@ -33,21 +33,20 @@
 
 ## 🎯 About Me
 
+```javascript
 const nirajKumar = {
-name: "Niraj Kumar",
-location: "Roorkee, Uttarakhand, India 🇮🇳",
-education: "B.Tech Chemical Engineering @ IIT Roorkee",
-currentRole: "Frontend Developer @ C-Tray",
-previousRole: "Full Stack Developer @ Gallero Live",
-passion: ["Clean Code", "User Experience", "Modern Web Technologies"],
-availability: ["Full-time", "Freelance", "Consulting"],
-currentlyLearning: ["AI Integration", "Cloud Technologies", "Advanced React Patterns"],
-funFact: "I debug with coffee ☕ and solve problems with creativity 🎨",
-lifePhilosophy: "Code with purpose, build with passion 💫"
+  name: "Niraj Kumar",
+  location: "Roorkee, Uttarakhand, India 🇮🇳",
+  education: "B.Tech Chemical Engineering @ IIT Roorkee",
+  passion: ["Clean Code", "User Experience", "Modern Web Technologies"],
+  availability: ["Full-time", "Freelance", "Consulting"],
+  currentlyLearning: ["AI Integration", "Cloud Technologies", "Machine Learning", "Deep Learning"],
+  funFact: "From chemical reactions to React components! 🧪➡️⚛️"
 };
+```
 
 ### 🌟 My Journey
-From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, my journey has been driven by curiosity and passion for technology. I believe in writing code that not only works but tells a story, solves real problems, and creates meaningful impact.
+From the Chemical Engineering halls at IIT Roorkee to crafting digital experiences, my journey has been driven by curiosity and passion for technology. I believe in writing code that not only works but tells a story, solves real problems, and creates meaningful impact.
 
 ---
 
@@ -64,8 +63,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### ⚙️ Backend Powerhouse
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -82,35 +79,15 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
-
-### 📊 Skill Proficiency
-
-| Skill Category | Technologies | Proficiency |
-|:---|:---|:---|
-| **Frontend Development** | React.js, TypeScript, Tailwind CSS | ⭐⭐⭐⭐⭐ (Expert) |
-| **Backend Development** | Node.js, Express.js, MongoDB | ⭐⭐⭐⭐⭐ (Advanced) |
-| **Web Technologies** | HTML, CSS, JavaScript | ⭐⭐⭐⭐⭐ (Expert) |
-| **State Management** | Redux, React Query, Context API | ⭐⭐⭐⭐⭐ (Advanced) |
-| **UI/UX Design** | Responsive Design, Figma, Shadcn UI | ⭐⭐⭐⭐⭐ (Advanced) |
-| **Real-time Apps** | Socket.io, WebRTC | ⭐⭐⭐⭐⭐ (Intermediate) |
-| **Cloud & DevOps** | AWS, Docker, CI/CD | ⭐⭐⭐⭐⭐ (Intermediate) |
-| **Programming Logic** | Data Structures, Algorithms | ⭐⭐⭐⭐⭐ (Advanced) |
 
 ---
 
 ## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🏢_Experience-2+_Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Projects-15+-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/😊_Happy_Clients-10+-orange?style=for-the-badge" />
-</div>
-
 ### 🌱 Frontend Developer - C-Tray
-**July 2025 – Present | Remote**
+**July 2025 – September 2025 | Remote**
 
 *Building AI-driven sustainability platforms focused on automated LCA and digital MRV solutions*
 
@@ -122,6 +99,8 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 - Implemented modern UI patterns and accessibility standards
 
 🔹 **Technologies Used:** React.js, TypeScript, Tailwind CSS, React Query, REST APIs
+
+---
 
 ### 🚀 Full Stack Developer - Gallero Live  
 **May 2025 – July 2025 | Remote**
@@ -186,8 +165,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 
 **🛠️ Tech Stack:** Next.js, TypeScript, Vapi Voice AI, Tailwind CSS, Vercel
 
-**📈 Impact:** Helping job seekers build confidence and improve interview performance
-
 ---
 
 ### 🎨 Whiteboard-sync - Real-time Collaborative Whiteboard
@@ -212,8 +189,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 - 📤 **Export Capabilities** for saving and sharing work
 
 **🛠️ Tech Stack:** React.js, Node.js, Socket.io, Canvas API, Express.js
-
-**📈 Impact:** Enabling seamless remote collaboration for distributed teams
 
 ---
 
@@ -240,8 +215,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 
 **🛠️ Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, Socket.io
 
-**📈 Impact:** Connecting people and fostering meaningful digital relationships
-
 ---
 
 ### 📚 JEE/NEET Test Platform - Educational Assessment System
@@ -267,8 +240,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 
 **🛠️ Tech Stack:** React.js, Node.js, MongoDB, Express.js, Chart.js, Material-UI
 
-**📈 Impact:** Empowering students with effective exam preparation tools
-
 ---
 
 ### 🛒 Fyntrix - Scalable E-commerce Platform
@@ -293,32 +264,6 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 - 🎯 **Advanced Search & Filtering** for enhanced product discovery
 
 **🛠️ Tech Stack:** React.js, Node.js, MongoDB, Express.js, Stripe API, Cloudinary
-
-**📈 Impact:** Delivering seamless shopping experiences with modern e-commerce features
-
----
-
-### 🎨 Additional Projects
-
-<details>
-<summary><strong>🖱️ Click to explore more projects</strong></summary>
-
-#### 🖼️ Printify UI Clone - Frontend Mastery
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=flat-square)](https://printify-ui.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📁_Code-181717?style=flat-square&logo=github)](https://github.com/Nirajiitr/Printify-UI-Clone)
-
-- **Focus:** Pixel-perfect UI recreation and responsive design
-- **Tech:** React.js, Tailwind CSS, Component Architecture
-- **Achievement:** 100% responsive across all device sizes
-
-#### 💼 Portfolio Website - Personal Branding
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=flat-square)](https://portfolio-niraj-kumar.onrender.com/)
-
-- **Focus:** Personal branding and professional presentation
-- **Tech:** React.js, Framer Motion, Modern CSS
-- **Features:** Interactive animations, responsive design
-
-</details>
 
 ---
 
@@ -351,75 +296,20 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 ![AI](https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Architecture-4ECDC4?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Practices-45B7D1?style=for-the-badge&logo=docker&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-96CEB4?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
 ### 🎯 2025 Goals
-- 🚀 Master **Advanced React Patterns** and **Micro-frontends**
-- ☁️ Gain **AWS Cloud Practitioner** certification
-- 🤖 Build AI-powered applications using **OpenAI APIs**
+- 🚀 Master **Advanced React Patterns** and **Server Components**
+- 🤖 Build production-ready **AI-powered applications**
 - 📱 Explore **React Native** for mobile development
-- 🌐 Contribute to **Open Source** projects regularly
-- 👥 Mentor aspiring developers and give back to the community
-
-### 💡 Areas of Interest
-- **Artificial Intelligence Integration** in web applications
-- **Real-time Collaborative Tools** and communication platforms
-- **Sustainable Technology Solutions** for environmental impact
-- **Educational Technology** platforms for skill development
-- **Performance Optimization** and scalable architecture design
+- ☁️ Achieve **AWS Solutions Architect** certification
+- 🧠 Dive deep into **Machine Learning** and **Deep Learning**
+- 🌐 Contribute to **Open Source** projects
 
 ---
 
-## 🌟 Professional Highlights
-
-<div align="center">
-
-| 🎯 Metric | 📊 Value | 🏆 Achievement |
-|:---|:---:|:---|
-| **Projects Completed** | 15+ | Successfully delivered end-to-end solutions |
-| **Years of Experience** | 2+ | Hands-on development and problem-solving |
-| **Happy Clients** | 10+ | Consistent 5-star feedback and recommendations |
-| **Success Rate** | 98% | On-time delivery with quality assurance |
-| **Code Reviews** | 100+ | Maintained high code quality standards |
-| **Team Collaborations** | 5+ | Cross-functional team leadership |
-
-</div>
-
-### 🏅 Key Achievements
-- ✅ **Built from Scratch:** Developed 5+ full-stack applications from concept to production
-- ✅ **Real-time Systems:** Implemented WebSocket-based collaborative platforms
-- ✅ **AI Integration:** Successfully integrated Voice AI and chatbot technologies
-- ✅ **Performance Optimization:** Achieved 90+ Lighthouse scores across projects
-- ✅ **Team Leadership:** Led development teams and mentored junior developers
-- ✅ **Client Satisfaction:** Maintained 98% client satisfaction rate
-
----
-
-## 🤝 Open Source & Community
-
-<div align="center">
-  
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github)](https://github.com/Nirajiitr)
-[![Mentorship](https://img.shields.io/badge/Mentorship-Available-blue?style=for-the-badge&logo=handshake)](mailto:niraj.kumar.iit.roorkee@gmail.com)
-
-</div>
-
-### 🌟 Community Involvement
-- 💻 **Active Contributor** to open-source projects
-- 👨‍🏫 **Mentoring** aspiring developers and students
-- 📝 **Technical Writing** and sharing knowledge through blogs
-- 🎤 **Speaking** at tech meetups and college events
-- 🤝 **Collaboration** with developers worldwide
-
-### 🎯 Looking to Collaborate On
-- 🌍 **Sustainability Technology** projects
-- 🎓 **Educational Platforms** and learning tools
-- 🤖 **AI-powered Applications** and automation
-- 🚀 **Open Source Projects** with social impact
-- 💼 **Startup Ideas** and innovative solutions
-
----
 
 ## 📞 Let's Connect & Collaborate
 
@@ -439,15 +329,12 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 <a href="https://portfolio-niraj-kumar.onrender.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://twitter.com/nirajkumar_dev">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
 
 ### 📍 Location & Availability
 **📍 Based in:** Roorkee, Uttarakhand, India  
 **🌍 Available for:** Remote work worldwide  
 **⏰ Time Zone:** IST (GMT+5:30)  
-**🚀 Status:** Open to new opportunities
+**🚀 Status:** Open to new opportunities  
 
 </div>
 
@@ -460,24 +347,19 @@ From Chemical Engineering halls at IIT Roorkee to crafting digital experiences, 
 
 ---
 
-## 🎨 Fun Zone
-
 <div align="center">
 
-### 🎵 Coding Playlist
-*Currently vibing to:*  
-🎶 Lo-fi Hip Hop • Synthwave • Classical • Jazz
-
-### ☕ Fuel of Choice
-const codingFuel = {
-primary: "Coffee ☕",
-backup: "Tea 🍵",
-emergency: "Energy Drink ⚡",
-quantity: "Unlimited"
-};
-
 ### 🎯 Coding Philosophy
-> "Clean code is not written by following a set of rules. Clean code is written by programmers who care about their craft." - Robert C. Martin
+
+> *"Clean code is not written by following a set of rules. Clean code is written by programmers who care about their craft."*  
+> — Robert C. Martin
+
+### 🌟 My Approach
+
+ 
+**Think user-first** - technology serves people, not the other way around  
+**Never stop learning** - yesterday's expertise is today's starting point  
+**Share knowledge** - a community grows when everyone contributes  
 
 </div>
 
