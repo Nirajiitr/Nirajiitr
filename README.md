@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🎓 Chemical Engineering Student @ IIT Roorkee | 💡 Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | 🎓Student @ IIT Roorkee | 💡 Problem Solver</h3>
 
 <p align="center">
   <em>Passionate about crafting scalable web applications, writing clean code, and solving complex problems</em>
@@ -33,17 +33,130 @@
 
 ## 🎯 About Me
 
-```javascript
-const nirajKumar = {
-  name: "Niraj Kumar",
-  location: "Roorkee, Uttarakhand, India 🇮🇳",
-  education: "B.Tech Chemical Engineering @ IIT Roorkee",
-  passion: ["Clean Code", "User Experience", "Modern Web Technologies"],
-  availability: ["Full-time", "Freelance", "Consulting"],
-  currentlyLearning: ["AI Integration", "Cloud Technologies", "Machine Learning", "Deep Learning"],
-  funFact: "From chemical reactions to React components! 🧪➡️⚛️"
-};
+<div align="center">
+
+### 💫 Who Am I?
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+#### 👨‍💻 Professional Profile
+
+**Name:** Niraj Kumar  
+**Role:** Full Stack Developer  
+**Location:** Roorkee, Uttarakhand, India 🇮🇳  
+**Education:** B.Tech Chemical Engineering @ IIT Roorkee '26
+
+---
+
+#### 💼 Technical Expertise
+
+**Frontend Development**  
+React.js • Next.js • TypeScript • Tailwind CSS
+
+**Backend Development**  
+Node.js • Express.js • MongoDB • Socket.io
+
+**DevOps & Tools**  
+Git • Docker • AWS • CI/CD
+
+---
+
+#### 🎯 Current Focus Areas
+
+🤖 AI & Machine Learning Integration  
+☁️ Cloud Architecture & Scalability  
+🧠 Deep Learning Applications  
+📱 Cross-Platform Development
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 My Development Journey
+
+```plaintext
+🧪 Chemical Engineering Student
+        ↓
+💻 Discovered Web Development
+        ↓
+⚛️ Mastered React & Node.js
+        ↓
+🌟 Built Real-World Projects
+        ↓
+🎯 Currently: Full Stack Dev
+        ↓
+🚀 Next: AI-Powered Solutions
 ```
+
+### ✨ Core Values
+
+🎨 **Clean Code** - Readable & Maintainable  
+🎯 **User-Centric** - Experience First  
+🚀 **Performance** - Speed Matters  
+📚 **Continuous Learning** - Never Stop Growing
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌟 What Drives Me
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 💡 Innovation
+Turning ideas into  
+elegant solutions that  
+solve real problems
+
+</td>
+<td align="center" width="33%">
+
+#### 🎓 Learning
+From chemical reactions  
+to React components  
+**🧪 ➡️ ⚛️**
+
+</td>
+<td align="center" width="33%">
+
+#### 🤝 Collaboration
+Building amazing products  
+with passionate teams  
+worldwide
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Open To
+
+[![Full-time](https://img.shields.io/badge/💼_Full--time_Roles-4CAF50?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
+[![Freelance](https://img.shields.io/badge/🚀_Freelance_Projects-2196F3?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
+[![Consulting](https://img.shields.io/badge/💡_Consulting-FF9800?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
+[![Open Source](https://img.shields.io/badge/🌟_Open_Source-9C27B0?style=for-the-badge)](https://github.com/Nirajiitr)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ### 🌟 My Journey
 From the Chemical Engineering halls at IIT Roorkee to crafting digital experiences, my journey has been driven by curiosity and passion for technology. I believe in writing code that not only works but tells a story, solves real problems, and creates meaningful impact.
@@ -85,6 +198,27 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 ---
 
 ## 💼 Professional Experience
+
+### 🌟 Web Development Intern - Consltek Technology Simplified Private Limited
+**October 2024 – Present | Remote**
+
+*Building scalable web applications and digital solutions for enterprise clients*
+
+🔹 **Key Responsibilities & Achievements:**
+
+-Developing and maintaining **full-stack web applications** using modern technologies
+
+-Collaborating with cross-functional teams to implement **responsive UI/UX designs**
+
+-Building **RESTful APIs** and integrating third-party services
+
+-Optimizing application performance and ensuring **code quality through best practices**
+
+-Participating in agile development cycles and code reviews
+
+🔹 **Technologies Used:** React.js, Node.js, MongoDB, Express.js, TypeScript, Git, AWS
+
+
 
 ### 🌱 Frontend Developer - C-Tray
 **August 2025 – September 2025 | Remote**
