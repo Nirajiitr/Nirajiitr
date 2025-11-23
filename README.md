@@ -87,7 +87,7 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 ## 💼 Professional Experience
 
 ### 🌱 Frontend Developer - C-Tray
-**July 2025 – September 2025 | Remote**
+**August 2025 – September 2025 | Remote**
 
 *Building AI-driven sustainability platforms focused on automated LCA and digital MRV solutions*
 
@@ -100,23 +100,6 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 
 🔹 **Technologies Used:** React.js, TypeScript, Tailwind CSS, React Query, REST APIs
 
----
-
-### 🚀 Full Stack Developer - Gallero Live  
-**May 2025 – July 2025 | Remote**
-
-*Led the complete development lifecycle of the company's official website*
-
-🔹 **Key Achievements:**
-- Built and deployed the official website from scratch: **[www.gallerolive.com](http://www.gallerolive.com)**
-- Developed scalable **frontend-backend architecture** using MERN stack
-- Implemented responsive UI/UX design ensuring seamless user experience
-- Integrated third-party APIs and handled production deployment and maintenance
-- Optimized website performance achieving **90+ Lighthouse scores**
-
-🔹 **Technologies Used:** MERN Stack, React.js, Node.js, Express.js, MongoDB
-
----
 
 ## 🎓 Educational Background
 
