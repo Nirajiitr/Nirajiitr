@@ -199,7 +199,7 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 
 ## 💼 Professional Experience
 
-### 🌟 Web Development Intern - Consltek Technology Simplified Private Limited
+### 🌟 Softwere Developer Intern - Consltek Technology Simplified Private Limited
 **October 2024 – Present | Remote**
 
 *Building scalable web applications and digital solutions for enterprise clients*
