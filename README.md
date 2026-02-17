@@ -16,10 +16,10 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-niraj-kumar.onrender.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nirajiitr.com)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niraj.kumar.iit.roorkee@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-kumar-iit)
-[![Resume](https://img.shields.io/badge/📄_Resume-0052CC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nirajkriitr)
+
 
 </div>
 
@@ -437,13 +437,13 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 <a href="mailto:niraj.kumar.iit.roorkee@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/niraj-kumar-iit">
+<a href="www.linkedin.com/in/nirajkriitr">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Nirajiitr">
   <img src="https://img.shields.io/badge/🐱_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://portfolio-niraj-kumar.onrender.com">
+<a href="https:/nirajiitr.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
