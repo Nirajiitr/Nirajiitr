@@ -90,14 +90,14 @@
 
 ## 💼 Professional Experience
 
-### 🌟 Softwere Developer Intern - Consltek
+### 🌟 Softwere Developer - Consltek
 **October 2025 – Present | Remote**
 
 *Building scalable web applications and digital solutions for enterprise clients*
 
 🔹 **Key Responsibilities & Achievements:**
 
--Developing and maintaining **full-stack web applications** using modern technologies
+-Developing and maintaining applications using modern technologies
 
 -Collaborating with cross-functional teams to implement **responsive UI/UX designs**
 
