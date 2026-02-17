@@ -154,14 +154,27 @@ worldwide
 
 ---
 
+## 📊 GitHub Analytics & Performance
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+### 📈 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirajiitr&theme=tokyonight" alt="Profile Summary" />
+
+<!-- Additional summary cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nirajiitr&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nirajiitr&theme=tokyonight" alt="Most Commit Language" />
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirajiitr&theme=tokyonight" alt="GitHub Streak" />
+
+### 📊 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajiitr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
 </div>
 
-### 🌟 My Journey
-From the Chemical Engineering halls at IIT Roorkee to crafting digital experiences, my journey has been driven by curiosity and passion for technology. I believe in writing code that not only works but tells a story, solves real problems, and creates meaningful impact.
-
 ---
+
 
 ## 🛠️ Technical Arsenal
 
@@ -382,28 +395,6 @@ From the Chemical Engineering halls at IIT Roorkee to crafting digital experienc
 
 **🛠️ Tech Stack:** React.js, Node.js, MongoDB, Express.js, Stripe API, Cloudinary
 
----
-
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-
-### 📈 Contribution Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirajiitr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajiitr&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
-
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirajiitr&theme=tokyonight" alt="GitHub Streak" />
-
-### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Nirajiitr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-### 📊 Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirajiitr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
 
 ## 🎯 Current Focus & Goals
 
