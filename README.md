@@ -4,14 +4,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Niraj+Kumar;Full+Stack+Developer+💻;Building+Digital+Solutions+🚀&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Niraj+Kumar;Software+Developer+💻;&center=true&size=30">
   </a>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🎓Student @ IIT Roorkee | 💡 Problem Solver</h3>
+<h3 align="center">🚀 Software Developer | 🎓Student @ IIT Roorkee | 💡 Problem Solver</h3>
 
 <p align="center">
-  <em>Passionate about crafting scalable web applications, writing clean code, and solving complex problems</em>
+  <em>Passionate about scalable applications, writing clean code, and solving complex problems</em>
 </p>
 
 <div align="center">
@@ -31,128 +31,6 @@
 
 ---
 
-## 🎯 About Me
-
-<div align="center">
-
-### 💫 Who Am I?
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-#### 👨‍💻 Professional Profile
-
-**Name:** Niraj Kumar  
-**Role:** Full Stack Developer  
-**Location:** Roorkee, Uttarakhand, India 🇮🇳  
-**Education:** B.Tech Chemical Engineering @ IIT Roorkee '26
-
----
-
-#### 💼 Technical Expertise
-
-**Frontend Development**  
-React.js • Next.js • TypeScript • Tailwind CSS
-
-**Backend Development**  
-Node.js • Express.js • MongoDB • Socket.io
-
-**DevOps & Tools**  
-Git • Docker • AWS • CI/CD
-
----
-
-#### 🎯 Current Focus Areas
-
-🤖 AI & Machine Learning Integration  
-☁️ Cloud Architecture & Scalability  
-🧠 Deep Learning Applications  
-📱 Cross-Platform Development
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 My Development Journey
-
-```plaintext
-🧪 Chemical Engineering Student
-        ↓
-💻 Discovered Web Development
-        ↓
-⚛️ Mastered React & Node.js
-        ↓
-🌟 Built Real-World Projects
-        ↓
-🎯 Currently: Full Stack Dev
-        ↓
-🚀 Next: AI-Powered Solutions
-```
-
-### ✨ Core Values
-
-🎨 **Clean Code** - Readable & Maintainable  
-🎯 **User-Centric** - Experience First  
-🚀 **Performance** - Speed Matters  
-📚 **Continuous Learning** - Never Stop Growing
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🌟 What Drives Me
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 💡 Innovation
-Turning ideas into  
-elegant solutions that  
-solve real problems
-
-</td>
-<td align="center" width="33%">
-
-#### 🎓 Learning
-From chemical reactions  
-to React components  
-**🧪 ➡️ ⚛️**
-
-</td>
-<td align="center" width="33%">
-
-#### 🤝 Collaboration
-Building amazing products  
-with passionate teams  
-worldwide
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Open To
-
-[![Full-time](https://img.shields.io/badge/💼_Full--time_Roles-4CAF50?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
-[![Freelance](https://img.shields.io/badge/🚀_Freelance_Projects-2196F3?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
-[![Consulting](https://img.shields.io/badge/💡_Consulting-FF9800?style=for-the-badge)](mailto:niraj.kumar.iit.roorkee@gmail.com)
-[![Open Source](https://img.shields.io/badge/🌟_Open_Source-9C27B0?style=for-the-badge)](https://github.com/Nirajiitr)
-
-</div>
-
----
 
 ## 📊 GitHub Analytics & Performance
 
@@ -176,11 +54,11 @@ worldwide
 ---
 
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical 
 
 <div align="center">
 
-### 🎨 Frontend Mastery
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -190,7 +68,7 @@ worldwide
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### ⚙️ Backend Powerhouse
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -212,8 +90,8 @@ worldwide
 
 ## 💼 Professional Experience
 
-### 🌟 Softwere Developer Intern - Consltek Technology Simplified Private Limited
-**October 2024 – Present | Remote**
+### 🌟 Softwere Developer Intern - Consltek
+**October 2025 – Present | Remote**
 
 *Building scalable web applications and digital solutions for enterprise clients*
 
@@ -396,29 +274,6 @@ worldwide
 **🛠️ Tech Stack:** React.js, Node.js, MongoDB, Express.js, Stripe API, Cloudinary
 
 
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-### 🌱 Currently Learning
-![AI](https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Architecture-4ECDC4?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps_Practices-45B7D1?style=for-the-badge&logo=docker&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-96CEB4?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-### 🎯 2025 Goals
-- 🚀 Master **Advanced React Patterns** and **Server Components**
-- 🤖 Build production-ready **AI-powered applications**
-- 📱 Explore **React Native** for mobile development
-- ☁️ Achieve **AWS Solutions Architect** certification
-- 🧠 Dive deep into **Machine Learning** and **Deep Learning**
-- 🌐 Contribute to **Open Source** projects
-
----
-
-
 ## 📞 Let's Connect & Collaborate
 
 <div align="center">
@@ -453,25 +308,6 @@ worldwide
 - 🎓 **Mentorship** and knowledge sharing
 - 🌟 **Open Source** contributions and community building
 
----
-
-<div align="center">
-
-### 🎯 Coding Philosophy
-
-> *"Clean code is not written by following a set of rules. Clean code is written by programmers who care about their craft."*  
-> — Robert C. Martin
-
-### 🌟 My Approach
-
- 
-**Think user-first** - technology serves people, not the other way around  
-**Never stop learning** - yesterday's expertise is today's starting point  
-**Share knowledge** - a community grows when everyone contributes  
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
